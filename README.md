@@ -1,5 +1,5 @@
 # projeto-spotify
-Projeto | Desenvolvimento de Páginas Web com Framework e CSS. Site de referência: https://open.spotify.com/intl-pt
+Projeto | Desenvolvimento de Páginas Web com Framework e CSS. Site de referência: https://www.farfetch.com/br/
 
 ## Protótipo Figma
 https://www.figma.com/file/PcWe4RHMRLiy9bzsnmRRC8/projeto-spotify?type=design&node-id=0%3A1&mode=dev&t=zjuakPRUEqWnwAI4-1
